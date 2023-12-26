@@ -2,6 +2,7 @@
 
 Ce repository contient le code source et les artefacts associés au projet de data analytics Uber. L'objectif principal de ce projet est de créer un pipeline de bout en bout pour collecter, traiter et visualiser les données en utilisant les technologies suivantes : Python, MAGE, Mage VM, BigQuery, et Looker.
 
+Les données utilisées dans ce projet sont issues de : [TLC](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 ## Contenu du Repository
 
 - **`src/`**: Le répertoire source contient le code Python pour l'ETL (Extract, Transform, Load) qui prend en charge la transformation des données brutes.
